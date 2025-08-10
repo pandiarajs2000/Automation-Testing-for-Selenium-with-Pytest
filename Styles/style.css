@@ -1,0 +1,8 @@
+.dropdown-menu {
+    min-width: 180px;
+    border-radius: 6px;
+    padding: 0.5rem 0;
+}
+.dropdown-item:hover {
+    background-color: #6CA96E; /* A shade of green */
+}

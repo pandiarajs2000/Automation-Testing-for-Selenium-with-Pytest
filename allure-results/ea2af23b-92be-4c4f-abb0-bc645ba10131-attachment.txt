@@ -1,0 +1,1 @@
+[32mINFO    [0m test_customer_details:test_customer_details.py:180 Customer GSTIN Field Testing

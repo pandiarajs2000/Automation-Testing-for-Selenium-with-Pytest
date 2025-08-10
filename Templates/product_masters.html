@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Responsive Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-light p-4">
+
+    <div class="container">
+        <h4 class="mb-4">Product Datas</h4>
+        <form action="/product_masters" onsubmit="return validateForm()" method="post" name="productForm">
+            <div class="row mb-3">
+                <div class="col-md-6 col-lg-4">
+                    <label for="firstName" class="form-label">Product ID</label>
+                    <input type="text" class="form-control" id="product_id" placeholder="Enter Product Name" name="product_id">
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <label for="firstName" class="form-label">Product Name</label>
+                    <input type="text" class="form-control" id="product_name" placeholder="Enter Product Name" name="product_name">
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <label for="lastName" class="form-label">Quantity</label>
+                    <input type="text" class="form-control" id="qty" placeholder="Enter a Quantity" name="qty" oninput="calculateTotal()">
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <label for="email" class="form-label">Category</label>
+                    <input type="text" class="form-control" id="category" name="category"
+                        placeholder="Enter a category">
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <label for="phone" class="form-label">Rate</label>
+                    <input type="tel" class="form-control" id="rate" placeholder="Enter Rate" name="rate" oninput="calculateTotal()">
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <label for="phone" class="form-label">Total</label>
+                    <input type="tel" class="form-control" id="total" name="total" placeholder="Enter Rate">
+                </div>
+            </div>
+
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+    <script>
+        function validateForm() {
+            let product_id = document.forms["productForm"]["product_id"].value;
+            let product_name = document.forms["productForm"]["product_name"].value;
+            let qty = document.forms["productForm"]["qty"].value;
+            let category = document.forms["productForm"]["category"].value;
+            let rate = document.forms["productForm"]["rate"].value;
+            // let total = document.forms["productForm"]["rate"].value;
+            
+            if (customer_first_name == "") {
+                alert("Please fill the fields");
+                return false;
+            }
+            
+        }
+        function calculateTotal() {
+            const qty = parseFloat(document.getElementById("qty").value) || 0;
+            const rate = parseFloat(document.getElementById("rate").value) || 0;
+            const total = qty * rate;
+
+            document.getElementById("total").value = total.toFixed(2);
+        }
+    </script>
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+    {% for message in messages %}
+    <h4>{{ message }}</h4>
+    {% endfor %}
+    {% endif %}
+    {% endwith %}
+</body>
+
+</html>

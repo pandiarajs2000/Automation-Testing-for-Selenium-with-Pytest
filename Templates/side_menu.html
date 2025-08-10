@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Frappe Screen</title>
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body style="background-color: #B1D7B4; color: white;">
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg" style="background-color: #7FB77E; height: 100px;">
+        <div class="container-fluid">
+            <p>Frappe Model View</p>
+
+            <!-- Toggler button for mobile -->
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+                aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <!-- Nav links -->
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ms-auto mb-2 mb-lg-0 text-center">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="/home">Home</a>
+                    </li>
+
+                    <!-- Frappe dropdown -->
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle text-white" href="#" id="frappeDropdown" role="button"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Frappe
+                        </a>
+                        <ul class="dropdown-menu bg-success" aria-labelledby="frappeDropdown">
+                            <li><a class="dropdown-item text-black" href="/master_screen">Master Data</a></li>
+                            <li><a class="dropdown-item text-black" href="/product_masters">Product Masters</a></li>
+                            <li><a class="dropdown-item text-black" href="/bill_creation">Bill Creation</a></li>
+                            <li><a class="dropdown-item text-black" href="">Product Datas</a></li>
+                        </ul>
+                    </li>
+
+
+                    <!-- Standalone link -->
+                    <!-- <li class="nav-item">
+                        <a class="nav-link text-white" href="/report">Frappe</a>
+                    </li> -->
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Bootstrap JS Bundle -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

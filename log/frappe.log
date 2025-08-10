@@ -1,0 +1,314 @@
+2025-08-09 19:55:41,429 - INFO - werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-09 19:55:41,429 - INFO - werkzeug - [33mPress CTRL+C to quit[0m
+2025-08-09 19:55:41,433 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:55:41,972 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:55:41,975 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:55:56,432 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 19:55:56] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 19:55:56,612 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 19:55:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-09 19:56:39,505 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:56:39,552 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:56:40,010 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:56:40,013 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:56:49,118 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:56:49,172 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:56:49,860 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:56:49,865 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:56:50,912 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:56:51,093 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:56:51,928 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:56:51,933 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:56:53,974 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:56:54,022 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:56:54,640 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:56:54,644 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:57:00,719 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:57:00,763 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:57:01,276 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:57:01,281 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:57:03,317 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:57:03,363 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:57:03,817 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:57:03,820 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:57:17,894 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 19:57:17] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 19:57:18,091 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 19:57:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-09 19:59:47,530 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:59:47,576 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:59:48,121 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:59:48,125 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 19:59:54,200 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 19:59:54,256 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 19:59:54,826 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 19:59:54,828 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:01,930 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:01,983 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:02,553 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:02,556 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:03,581 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:03,642 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:04,133 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:04,135 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:22,349 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:22,395 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:22,927 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:22,930 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:28,013 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:28,063 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:29,081 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:29,083 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:31,119 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:31,167 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:31,624 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:31,627 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:33,699 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:33,853 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:34,876 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:34,881 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:36,918 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:36,971 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:37,468 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:37,470 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:43,555 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:43,767 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:44,693 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:44,700 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:45,732 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:45,777 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:46,229 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:46,232 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:00:59,373 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:00:59,418 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:00:59,870 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:00:59,873 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:01:07,554 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:01:07] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 20:01:10,913 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:01:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-09 20:04:08,456 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:04:08,503 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:04:09,201 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:04:09,204 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:04:10,231 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:04:10,279 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:04:10,731 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:04:10,734 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:04:12,769 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:04:12,821 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:04:13,269 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:04:13,272 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:04:18,655 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:04:18] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 20:04:19,802 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:04:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-09 20:05:08,891 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:08,938 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:09,442 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:09,447 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:19,559 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:19,611 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:20,102 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:20,105 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:26,183 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:26,245 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:27,249 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:27,255 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:29,302 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:29,349 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:29,966 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:29,969 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:38,069 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:38,122 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:38,586 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:38,589 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:44,665 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:44,711 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:45,162 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:45,164 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:05:54,263 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:05:54,309 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:05:54,769 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:05:54,773 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:06,883 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:06,936 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:07,407 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:07,409 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:15,492 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:15,541 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:16,023 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:16,026 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:18,057 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:18,124 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:18,668 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:18,671 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:24,773 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:24,819 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:25,337 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:25,340 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:31,413 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:31,493 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:31,972 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:31,975 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:06:38,038 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:06:38,122 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:06:38,727 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:06:38,730 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:07:28,445 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:07:28,500 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:07:29,274 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:07:29,277 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:07:34,334 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:07:34,378 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:07:34,824 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:07:34,828 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:07:44,943 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:07:45,029 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:07:46,174 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:07:46,185 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:07:52,306 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:07:52,350 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:07:52,804 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:07:52,807 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:07:58,885 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:07:58,938 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:07:59,399 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:07:59,401 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:01,451 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:01,599 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:02,193 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:02,199 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:03,224 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:03,320 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:03,875 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:03,879 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:05,926 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:05,978 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:06,459 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:06,463 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:10,531 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:10,577 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:11,049 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:11,052 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:19,213 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:19,281 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:19,904 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:19,907 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:23,964 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:24,015 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:24,484 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:24,486 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:29,591 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:29,668 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:30,165 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:30,167 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:33,209 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:33,270 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:33,912 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:33,914 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:08:35,969 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:08:36,017 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:08:36,478 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:08:36,481 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:09:57,526 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:09:57,574 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:09:58,617 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:09:58,620 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:02,684 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:10:02,740 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:03,191 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:03,193 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:07,270 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:10:07,341 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:07,806 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:07,809 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:15,894 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:10:15,944 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:16,419 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:16,424 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:19,473 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:10:19,521 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:19,972 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:19,974 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:25,064 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:10:25,129 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:25,692 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:25,695 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:33,780 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:10:33,851 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:34,780 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:34,783 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:36,830 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:10:36,912 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:37,421 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:37,424 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:10:50,565 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_bill_creation.py', reloading
+2025-08-09 20:10:50,613 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:10:51,073 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:10:51,076 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:11:06,446 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:11:06] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 20:11:06,646 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:11:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-09 20:12:12,986 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:13,140 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:13,929 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:13,931 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:20,011 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:20,060 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:20,507 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:20,509 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:23,579 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:23,625 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:24,069 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:24,071 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:26,105 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:26,152 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:26,646 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:26,648 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:32,718 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:32,805 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:33,304 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:33,307 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:40,422 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:40,466 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:41,258 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:41,263 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:45,350 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:45,427 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:46,074 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:46,077 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:47,104 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:47,162 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:47,928 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:47,930 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:53,009 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:53,068 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:53,522 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:53,525 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:12:58,606 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:12:58,695 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:12:59,261 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:12:59,263 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:00,289 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:00,428 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:01,226 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:01,230 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:03,269 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:03,324 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:03,791 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:03,794 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:12,897 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:12,945 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:13,437 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:13,439 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:16,489 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:16,540 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:17,019 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:17,022 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:19,054 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:19,119 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:19,676 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:19,679 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:23,739 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:23,783 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:24,570 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:24,576 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:25,626 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Pages\\bill_creation_page.py', reloading
+2025-08-09 20:13:25,676 - INFO - werkzeug -  * Restarting with stat
+2025-08-09 20:13:26,153 - WARNING - werkzeug -  * Debugger is active!
+2025-08-09 20:13:26,155 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-09 20:13:31,627 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:13:31] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-09 20:13:35,250 - INFO - werkzeug - 127.0.0.1 - - [09/Aug/2025 20:13:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
