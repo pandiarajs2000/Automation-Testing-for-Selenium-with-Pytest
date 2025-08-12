@@ -173,5 +173,7 @@ def test_delete_field_validation(driver, product_id, qty, rate):
     form_page.page_url()
     form_page.click_add_row_btn()
     form_page.add_line_item(product_id, qty, rate)
+    delete_row = driver.get_screenshot_as_png()
+    allure.attach(delete_row,name="Delete Row", attachment_type=allure.attachment_type.PNG)
     form_page.delete_the_row()
     time.sleep(20)
