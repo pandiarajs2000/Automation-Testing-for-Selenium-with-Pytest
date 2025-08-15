@@ -5,9 +5,9 @@ import allure
 from utils.utils import read_data, write_data, row_count, read_all_data
 import logging
 from Pages.customer_details_screen import CustomerDetails
-from utils.log_utils import get_logger
+# from utils.log_utils import get_logger
 
-logger = get_logger(__name__)
+# logger = get_logger(__name__)
 
 file_path = "E:\\Frappe Model Project\\Data\\Frappe_Model_QA_Data.xlsx"
 rows = row_count(file_path, 'Customer Data')
@@ -32,7 +32,7 @@ rows = row_count(file_path, 'Customer Data')
 @allure.testcase("TC_001")
 @allure.story("Field Validation")
 def test_verify_customer_name(driver):
-    logger.info("Customer First Name Field Testing")
+    # logger.info("Customer First Name Field Testing")
     row = 2
     customer_first_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"The customer '{customer_first_name}' is added successfully."
@@ -48,7 +48,7 @@ def test_verify_customer_name(driver):
 @allure.testcase("TC_002")
 @allure.story("Field Validation")
 def test_verify_customer_name_long(driver):
-    logger.info("Customer First Name Field Testing")
+    # logger.info("Customer First Name Field Testing")
     row = 3
     customer_first_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Data too long for column 'customer_first_name' at row 1"
@@ -64,7 +64,7 @@ def test_verify_customer_name_long(driver):
 @allure.testcase("TC_003")
 @allure.story("Field Validation")
 def test_duplicate_customer_name(driver):
-    logger.info("Customer First Name Field Testing")
+    # logger.info("Customer First Name Field Testing")
     row = 4
     customer_first_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"This customer first name already added."
@@ -82,7 +82,7 @@ def test_duplicate_customer_name(driver):
 @allure.testcase("TC_004")
 @allure.story("Customer Lastname Field Validation")
 def test_customer_lastname(driver):
-    logger.info("Customer last Name Field Testing")
+    # logger.info("Customer last Name Field Testing")
     row = 5
     customer_last_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Please fill the fields firstName field."
@@ -101,7 +101,7 @@ def test_customer_lastname(driver):
 @allure.story("Customer Lastname Field Validation")
 @pytest.mark.parametrize("firstname",['Manish'])
 def test_last_name_char_limit(driver, firstname):
-    logger.info("Customer last Name Field Testing")
+    # logger.info("Customer last Name Field Testing")
     row = 6
     customer_last_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Customer Last name should be below the five characters"
@@ -120,7 +120,7 @@ def test_last_name_char_limit(driver, firstname):
 @allure.story("Customer Lastname Field Validation")
 @pytest.mark.parametrize("firstname",['Manish'])
 def test_last_name_char_limit(driver, firstname):
-    logger.info("Customer last Name Field Testing")
+    # logger.info("Customer last Name Field Testing")
     row = 7
     customer_last_name = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Customer Last Name Should Not be Include Special Characters"
@@ -139,7 +139,7 @@ def test_last_name_char_limit(driver, firstname):
 @allure.story("Customer GSTIN Field Validation")
 @pytest.mark.parametrize("firstname",["Krish"])
 def test_customer_gstin_valid_data(driver,firstname):
-    logger.info("Customer GSTIN Field Testing")
+    # logger.info("Customer GSTIN Field Testing")
     row = 8
     customer_gstin = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"The customer '{firstname}' is added successfully."
@@ -158,7 +158,7 @@ def test_customer_gstin_valid_data(driver,firstname):
 @allure.story("Customer GSTIN Field Validation")
 @pytest.mark.parametrize("firstname",["Krish"])
 def test_customer_gstin_invalid_data(driver,firstname):
-    logger.info("Customer GSTIN Field Testing")
+    # logger.info("Customer GSTIN Field Testing")
     row = 9
     customer_gstin = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Invalid GSTIN Number"
@@ -177,7 +177,7 @@ def test_customer_gstin_invalid_data(driver,firstname):
 @allure.story("Customer GSTIN Field Validation")
 @pytest.mark.parametrize("firstname",["Krish"])
 def test_gstin_not_digit(driver,firstname):
-    logger.info("Customer GSTIN Field Testing")
+    # logger.info("Customer GSTIN Field Testing")
     row = 10
     customer_gstin = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Customer GSTIN Number should not be digits"
@@ -196,7 +196,7 @@ def test_gstin_not_digit(driver,firstname):
 @allure.story("Customer GSTIN Field Validation")
 @pytest.mark.parametrize("firstname",["Kanish"])
 def test_gstin_fifteen_char(driver,firstname):
-    logger.info("Customer GSTIN Field Testing")
+    # logger.info("Customer GSTIN Field Testing")
     row = 11
     customer_gstin = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Customer GSTIN Number should be 15 Characters"
@@ -220,7 +220,6 @@ def test_gstin_fifteen_char(driver,firstname):
     ]
 )
 def test_customer_emailid_valid_one(driver,firstname,lastname,gstin,phoneno):
-    logger.info("Email Field Validation.")
     row = 12
     email_id = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"The customer '{firstname}' is added successfully."
@@ -245,7 +244,6 @@ def test_customer_emailid_valid_one(driver,firstname,lastname,gstin,phoneno):
     ]
 )
 def test_customer_emailid_invalid_one(driver,firstname,lastname,gstin,phoneno):
-    logger.info("Email Field Validation.")
     row = 13
     email_id = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Invalid gmail"
@@ -269,7 +267,6 @@ def test_customer_emailid_invalid_one(driver,firstname,lastname,gstin,phoneno):
     ]
 )
 def test_customer_emailid_invalid_two(driver,firstname,lastname,gstin,phoneno):
-    logger.info("Email Field Validation.")
     row = 14
     email_id = read_data(file_path, "Cus-Data-Test-Case", row, 3)
     expected_msg = f"Invalid gmail"

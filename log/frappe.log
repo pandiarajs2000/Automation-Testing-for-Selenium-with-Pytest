@@ -340,3 +340,113 @@
 2025-08-11 22:02:16,045 - INFO - werkzeug - 127.0.0.1 - - [11/Aug/2025 22:02:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
 2025-08-11 22:03:02,572 - INFO - werkzeug - 127.0.0.1 - - [11/Aug/2025 22:03:02] "GET /bill_creation HTTP/1.1" 200 -
 2025-08-11 22:03:02,802 - INFO - werkzeug - 127.0.0.1 - - [11/Aug/2025 22:03:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:30:22,896 - INFO - werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-13 07:30:22,915 - INFO - werkzeug - [33mPress CTRL+C to quit[0m
+2025-08-13 07:30:22,932 - INFO - werkzeug -  * Restarting with stat
+2025-08-13 07:30:23,591 - WARNING - werkzeug -  * Debugger is active!
+2025-08-13 07:30:23,599 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-13 07:48:32,891 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:48:32] "GET /home HTTP/1.1" 200 -
+2025-08-13 07:48:33,107 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:48:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:51:07,411 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:07] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:51:07,621 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:51:30,499 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:30] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:51:30,801 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:51:53,065 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:53] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:51:53,366 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:51:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:52:15,452 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:15] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:52:15,810 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:52:27,930 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:27] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:52:28,216 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:52:40,087 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:40] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:52:40,411 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:52:52,422 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:52] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:52:52,691 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:52:52] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:53:05,244 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:05] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:53:05,503 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:53:18,144 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:18] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:53:18,312 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:53:30,663 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:30] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:53:30,867 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:53:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:54:16,427 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:54:16] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:54:16,632 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:54:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 07:55:03,174 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:55:03] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 07:55:05,849 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 07:55:05] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:19:04,352 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:04] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:19:04,705 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:04] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:19:28,097 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:28] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:19:28,508 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:19:51,070 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:51] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:19:51,430 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:19:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:20:14,096 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:14] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:20:14,363 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:20:36,800 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:36] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:20:37,073 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:37] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:20:59,525 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:59] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:20:59,808 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:20:59] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-13 08:21:11,944 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:21:11] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-13 08:21:12,260 - INFO - werkzeug - 127.0.0.1 - - [13/Aug/2025 08:21:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:12:14,164 - INFO - werkzeug - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-08-15 10:12:14,181 - INFO - werkzeug - [33mPress CTRL+C to quit[0m
+2025-08-15 10:12:14,186 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:12:15,411 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:12:15,422 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:14:10,308 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:14:10] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:14:10,436 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:14:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:14:22,996 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:14:22] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:14:23,268 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:14:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:15:07,067 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:07] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:15:07,279 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:15:31,110 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:31] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:15:31,345 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:15:43,878 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:43] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:15:44,097 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:15:44] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:16:19,326 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:16:19] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:16:19,610 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:16:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:16:53,049 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:16:53] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:16:53,252 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:16:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:17:26,329 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:17:26] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:17:26,468 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:17:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:17:39,773 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:17:39] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:17:40,021 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:17:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:18:13,185 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:18:13] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:18:13,387 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:18:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:18:59,965 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:18:59] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:19:00,162 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:19:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:21:10,456 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:10] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:21:10,692 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:10] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:21:33,810 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:33] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:21:34,059 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:21:46,330 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:46] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:21:46,535 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:21:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:40:09,637 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:09] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:40:09,800 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:40:32,747 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:32] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:40:33,463 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:40:45,117 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:45] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:40:45,393 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:40:58,724 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:58] "GET /bill_creation HTTP/1.1" 200 -
+2025-08-15 10:40:58,974 - INFO - werkzeug - 127.0.0.1 - - [15/Aug/2025 10:40:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-15 10:48:50,392 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:48:50,629 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:48:52,739 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:48:52,747 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:49:03,988 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:49:04,073 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:49:04,794 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:49:04,799 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:49:23,020 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:49:23,111 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:49:23,836 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:49:23,841 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:49:39,030 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:49:39,147 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:49:39,903 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:49:39,906 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:50:02,201 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:50:02,293 - INFO - werkzeug -  * Restarting with stat
+2025-08-15 10:50:03,041 - WARNING - werkzeug -  * Debugger is active!
+2025-08-15 10:50:03,044 - INFO - werkzeug -  * Debugger PIN: 348-012-029
+2025-08-15 10:50:04,075 - INFO - werkzeug -  * Detected change in 'E:\\Frappe Model Project\\Test\\test_customer_details.py', reloading
+2025-08-15 10:50:04,177 - INFO - werkzeug -  * Restarting with stat
